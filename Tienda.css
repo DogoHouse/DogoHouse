@@ -141,6 +141,7 @@ body{
     .imagenes{
         display: flex;
         flex-direction: column;
+        padding-bottom: 5%;
     }
     
     /* SECTION CLIENTES */
